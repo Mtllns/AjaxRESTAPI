@@ -1,0 +1,11 @@
+.container {
+    max-width: 800px;
+}
+
+h1 {
+    font-weight: bold;
+}
+.chuck_img {
+    height: 200px;
+    width: auto;
+}
